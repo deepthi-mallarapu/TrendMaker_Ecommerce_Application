@@ -1,48 +1,55 @@
-TrendMart
+TrendMaker - E-Commerce Frontend Application
 
-TrendMart – Responsive E-Commerce Frontend
+TrendMaker is a responsive e-commerce frontend website built using HTML, CSS, and JavaScript. It allows users to browse products, add them to a cart or wishlist, and proceed with a checkout process. The project reflects practical frontend skills and focuses on delivering a clean and responsive user experience.
 
-Overview
+The application includes:
 
-TrendMart is a modern, responsive e-commerce frontend built using HTML, CSS, and JavaScript. It simulates a full shopping experience with product listings, search and filter functionality, wishlist and cart features, and a checkout process with an animated order confirmation page. This project demonstrates frontend development best practices for building interactive and user-friendly web applications.
+A modern home page with product listings
 
-Features
+Product details for better shopping decisions
 
-Responsive layout compatible with desktop, tablet, and mobile devices.
+A shopping cart to add, update, or remove products
 
-Product listing with images, titles, prices in INR, and descriptions.
+Wishlist functionality for saving favorites
 
-Search and filter functionality for easy navigation.
+A checkout page with order confirmation
 
-Wishlist and cart management with dynamic count updates.
+## Screenshots
 
-Checkout page with form validation.
+### Home Page
+![Home Page](./screenshots/home.png)
 
-Animated order confirmation page with green check mark.
+### Product Page
+![Product Page](./screenshots/product.png)
 
-LocalStorage integration to persist cart and wishlist data.
+### Cart Page
+![Cart Page](./screenshots/cart.png)
 
-Technologies
+### Wishlist
+![Wishlist](./screenshots/wishlist.png)
 
-HTML5 for semantic structure and markup.
+### Checkout
+![Checkout](./screenshots/checkout.png)
 
-CSS3 for responsive and modern styling.
+### order confirmed
+![confirmed](./screenshots/confirmed.png)
 
-JavaScript for dynamic functionality, DOM manipulation, and LocalStorage management.
+The frontend is designed using HTML for structure, CSS for styling and responsive layouts, and JavaScript for interactivity. Git and GitHub are used for version control and collaboration.
 
-Usage
+The project folder contains the frontend code and a screenshots folder that demonstrates different pages of the application. Screenshots are provided for Home Page, Product Page, Cart Page, Wishlist Page, and Checkout Page.
 
+To use the project, simply open the index.html file from the frontend folder in any modern browser. No additional setup is required.
+
+Setup and Usage
 Clone the repository:
-git clone https://github.com/NageswaraRao47/TrendMart.git
 
-Open index.html in a web browser to start using TrendMart.
+git clone https://github.com/deepthi-mallarapu/TrendMaker_Ecommerce_Application.git
 
-Future Enhancements
+Open the project folder in VS Code or any editor.
 
-Integration with a backend API for real product data and order management.
+Open index.html in a browser to explore the website.
 
-User authentication and profile management.
 
-Payment gateway integration for a complete checkout experience.
+Future improvements can include backend integration, user authentication, database connectivity, and payment gateway support to create a complete e-commerce platform.
 
-Enhanced animations and UI improvements for a professional e-commerce feel.
+Developed by Deepthi Mallarapu.
